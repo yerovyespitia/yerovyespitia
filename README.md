@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [MonkeyType](https://monkeytype.com)
 
-- 👨‍💻 All of my projects are available at [https://luyeesg.github.io](https://yerovyespitia.github.io)
+- 👨‍💻 All of my projects are available at [https://yerovyespitia.github.io/](https://yerovyespitia.github.io)
 
 - 📫 How to reach me **luyeesgar@gmail.com**
 
