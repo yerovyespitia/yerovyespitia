@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Counter Pokémon](https://www.counterpokemon.com)
 
-- 🌱 I’m currently learning **React Native, Make API's, Django & Siri Shortcuts**
+- 🌱 I’m currently learning **React Native, Node.js, Django & Siri Shortcuts**
 
 - 👯 I’m looking to collaborate on [MonkeyType](https://monkeytype.com)
 
