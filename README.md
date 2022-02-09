@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://yerovyespitia.github.io/](https://yerovyespitia.github.io)
 
-- 📫 How to reach me **luyeesgar@gmail.com**
+- 📫 How to reach me **https://twitter.com/yerovyespitia**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
