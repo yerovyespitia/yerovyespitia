@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yerovy Espitia</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
-- 🔭 I’m currently working on [Counter Pokémon](https://www.counterpokemon.com)
+- 🔭 I’m currently working on [State of Mac](https://www.stateofmac.com/)
 
-- 🌱 I’m currently learning **React Native, Node.js & Siri Shortcuts**
-
-- 👯 I’m looking to collaborate on [MonkeyType](https://monkeytype.com)
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://yerovyespitia.github.io/](https://yerovyespitia.github.io)
 
