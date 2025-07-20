@@ -1,14 +1,17 @@
 <h3 align="center">🇨🇴 | Software developer</h3>
 
-- 🔭 I’m currently working on [Seijaku](https://github.com/yerovyespitia/seijaku)
+<br>
 
-- 🌱 I’m currently learning **Rust**
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=yerovyespitia&theme=radical" />
+</div>
 
-- 👨‍💻 All of my projects are available at [https://yerovyespitia.github.io/](https://yerovyespitia.github.io)
+<br>
 
-- 📫 You can reach me at **https://twitter.com/yerovyespitia**
+<h3 align="left">Let's connect:</h3>
 
-<h3 align="left">Connect:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yerovyespitia" target="blank">Linkedin</a>
+  <a href="https://linkedin.com/in/yerovyespitia" target="blank">Linkedin</a>
+  <span> | </span>
+  <a href="https://twitter.com/yerovyespitia" target="blank">Twitter</a>
 </p>
