@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yerovy Espitia</h1>
-<h3 align="center">🇨🇴 | Web developer</h3>
+<h3 align="center">🇨🇴 | Software developer</h3>
 
 - 🔭 I’m currently working on [Seijaku](https://github.com/yerovyespitia/seijaku)
 
@@ -9,7 +8,7 @@
 
 - 📫 You can reach me at **https://twitter.com/yerovyespitia**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yerovyespitia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yerovyespitia" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yerovyespitia" target="blank">Linkedin</a>
 </p>
