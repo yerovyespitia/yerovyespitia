@@ -2,11 +2,9 @@
 
 <br>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=yerovyespitia&theme=radical" />
-</div>
+**I’m `yerovy` – a software developer based in Colombia**  
 
-<br>
+I love to code and build things that solve real‑world problems.
 
 <h3 align="left">Let's connect:</h3>
 
