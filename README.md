@@ -1,15 +1,8 @@
-<h3 align="center">🇨🇴 | Software developer</h3>
+<h2 align="center">🇨🇴 | Software developer</h2>
 
 <br>
 
-**I’m `yerovy` – a software developer based in Colombia**  
+**I’m `yerovy` – a software developer building fast, elegant, and user-focused interfaces**  
 
-I love to code and build things that solve real‑world problems.
-
-<h3 align="left">Let's connect:</h3>
-
-<p align="left">
-  <a href="https://linkedin.com/in/yerovyespitia" target="blank">Linkedin</a>
-  <span> | </span>
-  <a href="https://twitter.com/yerovyespitia" target="blank">Twitter</a>
-</p>
+I create products that are not only visually compelling but also drive results.
+My goal is to design user experiences that align business goals with real user needs, no more one sided solutions
